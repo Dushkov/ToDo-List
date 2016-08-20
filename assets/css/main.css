@@ -40,7 +40,6 @@ header input {
     -moz-appearance: none;
     -ms-appearance: none;
     -o-appearance: none;
-    appearance: none;
 }
 
 header input::-webkit-input-placeholder {
@@ -70,6 +69,7 @@ header button svg {
     left: 50%;
     margin: -8px 0 0 -8px;
 }
-header button svg .fill{
+
+header button svg .fill {
     fill: #25b99a;
 }
